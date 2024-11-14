@@ -21,7 +21,7 @@ A simple and elegant restaurant menu app built with Flutter. It includes a list 
 
 ## Get Started
  - Clone the Repository:
-   git clone https://github.com/your-username/restaurant-menu-app.git
+   git clone https://github.com/Danidu2000/menu_mate_restaurant_menu_app.git
    cd restaurant-menu-app
  - Install Dependencies: Run the following command to install the required dependencies:
    flutter pub get
